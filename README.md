@@ -11,7 +11,7 @@ Although my daily professional work involves a different focus, coding is still 
 - 📊 **Data enthusiast:** Deeply interested in **Big Data**
 - 🗄️ **Database Proficient:** Experienced in designing and managing **SQL** databases.
 - 💻 **Tech Stack:** I create projects in **Python** and build website development using **HTML/JavaScript**.
-- 🎓 **Edukacation:** BSc Applied Computer Science -> PG Big Data -> (Incosming) MSc Big Data
+- 🎓 **Education:** BSc Applied Computer Science -> PG Big Data -> (Incosming) MSc Big Data
 
 <div align="center">
   <img src="https://capsule-render.vercel.app[TWOJE_IMIĘ]!%20👋&fontSize=50" />
